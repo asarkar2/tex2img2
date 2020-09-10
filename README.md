@@ -18,3 +18,6 @@ pdfinfo, gs
 
 ### eps image: 
 (pdflatex, pdfinfo, gs, pdftops)
+
+Also see:
+https://github.com/asarkar2/tex2img
